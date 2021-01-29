@@ -1,5 +1,7 @@
 React App for Continous Integration Demo'
 
-Welcome to the CI Demo'
+Hi Everyone 
+
+welcome to ci demo
 
 _ Bysukrant
