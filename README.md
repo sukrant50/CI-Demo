@@ -1,3 +1,3 @@
 React App for Continous Integration Demo
 
-_ Bysukrant
+_ By SUkrant Chandna
